@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           /:title/
+
+# Setup
+title:               '< Sachin Verma />'
+tagline:             'Personal Blog'
+description:         'I am a student and a web developer currently living in India.'
+url:                 http://sachinverma.net
+baseurl:             
+paginate:            5
+
+# About/contact
+author:
+  name:              Sachin Verma
+  url:               https://github.com/vermasachin
+  email:             sachinverma2712@gmail.com
+
+# Custom vars
+version:             1.0.0
+gems: [jekyll-paginate]
