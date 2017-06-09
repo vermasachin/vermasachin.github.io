@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Drawing a Conclusion Between Movie Length and Its IMDB Rating"
-date:   2017-06-03 20:10:39 +0530
+title: Drawing a Conclusion Between Movie Length and Its IMDB Rating
+date: '2017-06-03 20:10:39 +0530'
 subtitle: Ranking Indian cities with best and worst sex ratios.
 categories: personal
+published: true
 ---
 I got my hands dirty with another dataset from Kaggle, **[IMDB 5000 Movie Dataset](https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset)**. So, I decided to relate movie length to its IMDB ratings.
 
@@ -73,6 +74,6 @@ for length in movie_length:
 
 ### Conclusion
 
-This data was gathered from a set of 5000 movies. 
+This data was gathered from a set of 5000 movies. After sorting the data, an average of 50 consecutive values was used to draw a smooth graph. *Data may be slightly skewed.*
 
 So, in the final graph if we ignore some outliers, it is evident that the length of a movie is directly proportional to its IMDB rating.
