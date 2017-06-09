@@ -56,7 +56,7 @@ I grabbed the CSV file and stripped the required information using Python. Calcu
 
 #### ***Higher is better**
 
-<p data-height="450" data-theme-id="dark" data-slug-hash="NgGJjX" data-default-tab="result" data-user="sachinverma" data-embed-version="2" data-pen-title="Sex ratio #1" class="codepen">See the Pen <a href="https://codepen.io/sachinverma/pen/NgGJjX/">Sex ratio #1</a> by Sachin Verma (<a href="https://codepen.io/sachinverma">@sachinverma</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<p data-height="450" data-theme-id="light" data-slug-hash="NgGJjX" data-default-tab="result" data-user="sachinverma" data-embed-version="2" data-pen-title="Sex ratio #1" class="codepen">See the Pen <a href="https://codepen.io/sachinverma/pen/NgGJjX/">Sex ratio #1</a> by Sachin Verma (<a href="https://codepen.io/sachinverma">@sachinverma</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 My own city "Shimla" ranks 9th on this list, which is no doubt a good sign. The sex ratio of children aged 0-6 is 890 whereas overall sex ratio is 818, which is an increase of 8.8%.
@@ -106,7 +106,7 @@ plt.show()
 
 #### ***Value closer to 0 is better**
 
-<p data-height="450" data-theme-id="dark" data-slug-hash="XgmGYL" data-default-tab="result" data-user="sachinverma" data-embed-version="2" data-pen-title="Sex ratio #1" class="codepen">See the Pen <a href="https://codepen.io/sachinverma/pen/XgmGYL/">Sex ratio #1</a> by Sachin Verma (<a href="https://codepen.io/sachinverma">@sachinverma</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<p data-height="450" data-theme-id="light" data-slug-hash="XgmGYL" data-default-tab="result" data-user="sachinverma" data-embed-version="2" data-pen-title="Sex ratio #1" class="codepen">See the Pen <a href="https://codepen.io/sachinverma/pen/XgmGYL/">Sex ratio #1</a> by Sachin Verma (<a href="https://codepen.io/sachinverma">@sachinverma</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 Kozhikode from Kerala topped this list with a percentage decrease of 12.17% (1093 to 960).
