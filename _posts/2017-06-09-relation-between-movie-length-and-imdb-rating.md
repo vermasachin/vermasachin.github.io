@@ -75,4 +75,4 @@ for length in movie_length:
 
 This data was gathered from a set of 5000 movies. 
 
-The final graph obtained is a linear graph. So, if we ignore some outliers, it is evident that the length of a movie is directly proportional to its IMDB rating.
+So, in the final graph if we ignore some outliers, it is evident that the length of a movie is directly proportional to its IMDB rating.
